@@ -94,3 +94,13 @@ li.lista5 {
     margin: 8px 6px 8px 6px;
 }
 
+ul.lista6 {
+  list-style-type: none;
+  text-align: center;
+}
+
+li.lista6 {
+  display: inline;
+  padding: 0px 20px;
+  margin: 8px 6px 8px 6px;
+}
